@@ -7,4 +7,4 @@ wonderful!
 one!
 two!
 this a mistake!
-creating a new branck is quick!
+creating a new branck is quick and simple!
